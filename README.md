@@ -33,10 +33,8 @@ int main() {
 
 
 ## OUTPUT:
-Enter first character: A
-Enter second character: B
-Enter third character: C
-Characters in reverse order: C B A
+![M1 1](https://github.com/user-attachments/assets/d28e6795-e629-4318-9af9-a1a029a4d17d)
+
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -78,8 +76,7 @@ int main() {
 
 
 # OUTPUT:
-Enter a value for A: 15
-A is a positive number.
+![M1 2](https://github.com/user-attachments/assets/3f0fde36-8543-4c14-bf94-15a6f60474bc)
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -125,9 +122,8 @@ int main() {
 
 
 ## OUTPUT:
-Enter first number: 3.14
-Enter second number: 3.14
-Minimum number is: 3.14
+![M1 3](https://github.com/user-attachments/assets/91b1f742-5469-4596-9efd-34b77bef812f)
+
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -168,8 +164,8 @@ int main() {
 
 
 ## OUTPUT:
-Enter a value: 1
-The value is equal to 1.
+![M1 4](https://github.com/user-attachments/assets/ab0d9e42-5107-426a-b686-e2bcb0ef771d)
+
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -226,12 +222,7 @@ int main() {
 
 
 ## OUTPUT:
-Enter marks for Subject 1: 78
-Enter marks for Subject 2: 65
-Enter marks for Subject 3: 72
-Total Marks = 215
-Percentage = 71.67%
-Division: First
+![M1 5](https://github.com/user-attachments/assets/02a167d0-6351-4f6a-b688-9046b116510f)
 
 
 ## RESULT:
